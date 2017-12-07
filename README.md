@@ -17,3 +17,9 @@
   - [ ] [Postorder](Documents/postorder.md)
 - **Misc**
   - [x] [Connect nodes at same level using constant extra space](Documents/connect-nodes-at-same-level-using-constant-extra-space.md)
+  
+## Algorithm
+
+### Math
+- **Number Theory**
+  - [ ] [Digital root](Documents/digital-root.md)
