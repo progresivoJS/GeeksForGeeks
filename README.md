@@ -2,11 +2,17 @@
 
 ## DataStructure
 
+### Arrays
+
+
+
 ### Tree
 
 #### Binary Tree
 
-- Traversals
-  - [Preorder](Documents/Preorder.md)
-  - [Inorder](Documents/Inorder.md)
-  - [Postorder](Documents/Postorder.md)
+- **Traversals**
+  - [x] [Preorder](Documents/preorder.md)
+  - [ ] [Inorder](Documents/inorder.md)
+  - [ ] [Postorder](Documents/postorder.md)
+- **Misc**
+  - [x] [Connect nodes at same level using constant extra space](Documents/connect-nodes-at-same-level-using-constant-extra-space.md)
