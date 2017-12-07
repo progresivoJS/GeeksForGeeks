@@ -1,2 +1,10 @@
-# GeeksForGeeks
-GeeksForGeeks Study
+# Geeks For Geeks
+
+## DataStructure
+
+### Tree
+
+###### Binary Tree
+
+- Traversals
+  - ​
