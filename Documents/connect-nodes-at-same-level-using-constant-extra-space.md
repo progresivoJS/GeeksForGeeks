@@ -2,7 +2,7 @@
 
 ## Using O(n) Space
 
-## Complexity
+### Complexity
 
 - Time : O(n)
 - Space : O(n)
