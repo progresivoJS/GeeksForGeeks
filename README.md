@@ -4,10 +4,9 @@
 
 ### Tree
 
-###### Binary Tree
+#### Binary Tree
 
 - Traversals
-  - [Preorder](https://github.com/progresivoJS/GeeksForGeeks/Documents/Preorder.md)
-  - [Inorder](https://github.com/progresivoJS/GeeksForGeeks/Documents/Inorder.md)
-  - [Postorder](https://github.com/progresivoJS/GeeksForGeeks/Documents/Postorder.md)
-
+  - [Preorder](Documents/Preorder.md)
+  - [Inorder](Documents/Inorder.md)
+  - [Postorder](Documents/Postorder.md)
