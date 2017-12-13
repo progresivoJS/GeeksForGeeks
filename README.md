@@ -7,6 +7,11 @@
 - **Optimization Problems**
   - [ ] [Largest Sum Contiguous Subarray](Documents/largest-sum-contiguous-subarray.md)
 
+### Linked List
+- **Singly Linked List**
+  - [ ] [Detect loop in a linked list](Documents/detect-loop-in-a-linked-list.md)
+  - [ ] [Intersection of Two Linked List](Documents/intersection-of-two-linked-list.md)
+
 ### Tree
 
 #### Binary Tree
